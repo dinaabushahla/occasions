@@ -1,0 +1,126 @@
+.to_demo_wrap {
+	padding: 2em;
+	margin: 1em;
+	background-color:#ffffff;
+	position:relative;
+}
+.to_demo_wrap .to_demo_pin {
+	display:none;
+	position:absolute;
+	right: 6px;
+	top: 4px;
+}
+.to_demo_wrap h1 {
+	margin-top:0;
+	margin-bottom:0.2em;
+	line-height:1.3em;
+}
+.to_demo_wrap h3, .to_demo_wrap h4 {
+	line-height:1.3em;
+	margin-top:1em;
+	margin-bottom:0.5em;
+}
+.to_demo_wrap p {
+	padding:0;
+	margin:0 0 0.25em;
+	line-height:1.3em;
+}
+.to_demo_wrap .to_demo_info {
+	margin-bottom:1em;
+}
+.to_demo_wrap span {
+	display:inline-block;
+}
+.to_demo_columns2 {
+	display:inline-block;
+	vertical-align:top;
+	width:46%;
+	margin-right:3%;
+}
+.to_demo_columns3 {
+	display:inline-block;
+	vertical-align:top;
+	width:30%;
+	margin-right:3%;
+}
+.to_demo_body {
+	padding: 2em;
+}
+
+.unicaevents_options.to_demo_fixed > .unicaevents_options_field_info {
+	display:block;
+	position:fixed;
+	top: 50px;
+	bottom:20px;
+	right:0;
+	width:400px;
+	margin:0;
+	padding:2em;
+}
+.unicaevents_options.to_demo_fixed > .unicaevents_options_field_info .to_demo_wrap {
+	margin:0;
+	padding:0;
+	position:absolute;
+	left:2em;
+	right:2em;
+	top:8em;
+	bottom:2em;
+}
+.unicaevents_options.to_demo_fixed > .unicaevents_options_field_info .to_demo_body_wrap {
+	margin:0;
+	position:absolute;
+	left:2em;
+	right:2em;
+	top:2em;
+	bottom:2em;
+	overflow:hidden;
+}
+.unicaevents_options.to_demo_fixed > .unicaevents_options_field_info .to_demo_body {
+	margin:0;
+	position:absolute;
+	left:0;
+	right: 0;	/*-16px;*/
+	top:0;
+	bottom:0;
+	overflow:auto;
+}
+.unicaevents_options > .unicaevents_options_field_info,
+.unicaevents_options.to_demo_fixed .unicaevents_options_body [id^='to_demo'] {
+	display:none;
+}
+.unicaevents_options.to_demo_fixed > .unicaevents_options_field_info > label {
+	color: #333;
+	margin-bottom: 5px;
+}
+.to_demo_fixed .to_demo_columns2, .to_demo_fixed .to_demo_columns3 {
+	display:block;
+	width: 100%;
+	margin-right:0;
+	margin-bottom:1em;
+}
+
+@media (min-width: 1360px) {
+	.to_demo_wrap .to_demo_pin {
+		display:block;
+	}
+}
+@media (max-width: 1780px) {
+	.unicaevents_options.to_demo_fixed {
+		max-width:1000px;
+	}
+}
+@media (max-width: 1580px) {
+	.unicaevents_options.to_demo_fixed > .unicaevents_options_field_info {
+		width:350px;
+	}
+}
+@media (max-width: 1530px) {
+	.unicaevents_options.to_demo_fixed {
+		max-width:880px;
+	}
+}
+@media (max-width: 1439px) {
+	.unicaevents_options.to_demo_fixed > .unicaevents_options_field_info {
+		width:300px;
+	}
+}

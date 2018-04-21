@@ -1,0 +1,36 @@
+21.04.2018 07:43:51 Remote server returned error response 404 Not Found
+21.04.2018 07:43:51 Failed to import Media: &quot;က&quot;. Message: Remote server returned error response 404 Not Found
+21.04.2018 07:48:23 Remote server returned error response 404 Not Found
+21.04.2018 07:48:23 Failed to import Media: &quot;Two little kids dancing roundelay&quot;. Message: Remote server returned error response 404 Not Found
+21.04.2018 07:51:29 Remote server returned error response 404 Not Found
+21.04.2018 07:51:29 Failed to import Media: &quot;Small jumping boy holding bunch of balloons&quot;. Message: Remote server returned error response 404 Not Found
+21.04.2018 07:52:07 Remote server returned error response 404 Not Found
+21.04.2018 07:52:07 Failed to import Media: &quot;Relax&quot;. Message: Remote server returned error response 404 Not Found
+21.04.2018 07:52:08 Remote server returned error response 404 Not Found
+21.04.2018 07:52:08 Failed to import Media: &quot;chat-1&quot;. Message: Remote server returned error response 404 Not Found
+21.04.2018 07:52:10 Remote server returned error response 404 Not Found
+21.04.2018 07:52:10 Failed to import Media: &quot;chat-2&quot;. Message: Remote server returned error response 404 Not Found
+21.04.2018 07:53:05 Remote server did not respond
+21.04.2018 07:53:05 Failed to import Media: &quot;Depositphotos_11153356_original1&quot;. Message: Remote server did not respond
+21.04.2018 07:53:49 Remote server returned error response 404 Not Found
+21.04.2018 07:53:49 Failed to import Media: &quot;bg-Rectangle-16-copy&quot;. Message: Remote server returned error response 404 Not Found
+21.04.2018 07:56:18 Remote server did not respond
+21.04.2018 07:56:18 Failed to import Media: &quot;Kids blowing candles on cake at  birthday party&quot;. Message: Remote server did not respond
+21.04.2018 07:58:23 AJAX handler for importer
+21.04.2018 07:58:23 Dispatch action: import_tpl
+21.04.2018 07:58:23 Import Templates Options
+21.04.2018 07:58:23 AJAX handler finished - send results to client
+21.04.2018 07:58:24 AJAX handler for importer
+21.04.2018 07:58:24 Dispatch action: import_widgets
+21.04.2018 07:58:24 Import Widgets
+21.04.2018 07:58:26 AJAX handler finished - send results to client
+21.04.2018 07:58:28 AJAX handler for importer
+21.04.2018 07:58:28 Dispatch action: import_essgrids
+21.04.2018 07:58:28 Import Essential Grid
+21.04.2018 07:58:28 Process file &quot;ess_grid.json&quot;:
+21.04.2018 07:58:35 Essential Grid import complete
+21.04.2018 07:58:35 AJAX handler finished - send results to client
+21.04.2018 07:58:37 AJAX handler for importer
+21.04.2018 07:58:37 Dispatch action: import_revslider
+21.04.2018 07:58:37 Import Revolution sliders
+21.04.2018 07:58:37 Process slider &quot;homepage1.zip&quot;

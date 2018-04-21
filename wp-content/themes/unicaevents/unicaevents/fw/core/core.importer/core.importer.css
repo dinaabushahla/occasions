@@ -1,0 +1,34 @@
+#trx_importer_form .import_posts_params {
+	display:block;
+}
+
+#trx_importer_progress {
+	display:none;
+	margin:0;
+}
+#trx_importer_progress .trx_importer_progress_complete {
+	display:none;
+	color: #129611;
+}
+#trx_importer_progress .import_progress_status {
+	background-position:center;
+	background-repeat:no-repeat;
+}
+#trx_importer_progress.style_1 .import_progress_status {
+	width: 80px;
+	text-align:right;
+	background-size:15px 15px;
+}
+#trx_importer_progress.style_2 .import_progress_status {
+	width: 160px;
+	text-align:center;
+}
+#trx_importer_progress.style_1 .import_progress_status.step_in_progress {
+	background-image:url(images/ajax-loader.gif);
+}
+#trx_importer_progress.style_2 .import_progress_status.step_in_progress {
+	background-image:url(images/ajax-loader-2.gif);
+}
+#trx_importer_progress .import_progress_status.step_complete {
+	background-image:url(images/accept.png);
+}
